@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">RxJavaAssignment</string>
+    <string name="content_description_empty_image">Image for empty data set</string>
+    <string name="msg_default_empty">Empty</string>
+    <string name="content_description_empty_label">empty</string>
+    <string name="THE_MOVIE_API_KEY">b65a874f0578881bdd7cc0e50d2cadb4</string>
+    <string name="msg_empty_restaurant">There is no restaurant</string>
+    <string name="msg_no_movie">Movie Not Available Now</string>
+    <string name="cd_iv_poster">movie_poster</string>
+</resources>
